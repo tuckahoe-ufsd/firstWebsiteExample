@@ -2,3 +2,9 @@ h1{
     color: red;
     background-color: yellow;
 }
+
+/* 1. Make the navbar container a flex container */
+.navbar-container {
+    display: flex;
+    justify-content: center;  /* This centers the ul in the container */
+}
